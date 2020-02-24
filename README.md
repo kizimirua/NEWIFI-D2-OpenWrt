@@ -1,6 +1,8 @@
 # NEWIFI-D2-LEAN-OP
 编译自lean( https://github.com/coolsnowwolf/lede )的适合NEWIFI-D2的OpenWrt
 
+默认密码：password
+
 每月更新，包含以下软件：
 
 广告屏蔽大师 Plus+
