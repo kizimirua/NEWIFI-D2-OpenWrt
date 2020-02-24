@@ -1,6 +1,6 @@
 # NEWIFI-D2-LEAN-OP
 编译自lean( https://github.com/coolsnowwolf/lede )的适合NEWIFI-D2的OpenWrt
-3月更新，精简一些一万年用不到一次的软件
+
 每月更新，包含以下软件：
 
 广告屏蔽大师 Plus+
