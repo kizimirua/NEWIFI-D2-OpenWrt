@@ -1,12 +1,13 @@
 # NEWIFI-D2-LEAN-OP
 编译自lean( https://github.com/coolsnowwolf/lede )的适合NEWIFI-D2的OpenWrt
+3月更新，精简一些一万年用不到一次的软件
 每月更新，包含以下软件：
 
 广告屏蔽大师 Plus+
 
-ssr-plus
+ssr-plus（弃用KCP,SSR服务端;V2ray,SS,Trojan依旧存在）
 
-上网时间控制
+上网时间控制（弃用）
 
 解锁网易云灰色歌曲
 
@@ -24,17 +25,17 @@ TTYD终端
 
 硬盘休眠
 
-FTP服务器
+FTP服务器（弃用）
 
 aria2
 
-transmission
+transmission（弃用）
 
 PPTP
 
 IPSEC
 
-ZeroTier
+ZeroTier（弃用）
 
 BBR
 
