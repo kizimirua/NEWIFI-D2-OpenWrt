@@ -44,5 +44,3 @@ BBR
 每月更新一次，有需自取
 
 下载链接： https://github.com/kizimirua/NEWIFI-D2-LEAN-OP/releases
-
-更新固件请注意，会清除掉SSR-PLUS和广告屏蔽大师 Plus+的规则，请更新完后重新更新
