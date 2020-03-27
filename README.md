@@ -7,9 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus（弃用KCP,SSR服务端;V2ray,SS,Trojan依旧存在）
-
-上网时间控制（弃用）
+ssr-plus
 
 解锁网易云灰色歌曲
 
@@ -19,7 +17,7 @@ KMS服务器
 
 UPNP
 
-frp
+frpc
 
 网络共享
 
@@ -27,17 +25,11 @@ TTYD终端
 
 硬盘休眠
 
-FTP服务器（弃用）
+FTP服务器
 
 aria2
 
-transmission（弃用）
-
-PPTP
-
 IPSEC
-
-ZeroTier（弃用）
 
 BBR
 
