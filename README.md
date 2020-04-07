@@ -7,7 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus
+ssr-plus(ss-v2ray-plugin，v2ray，trojan，SSR-SERVER)
 
 解锁网易云灰色歌曲
 
@@ -18,6 +18,7 @@ KMS服务器
 UPNP
 
 frpc
+frps
 
 网络共享
 
@@ -29,9 +30,7 @@ FTP服务器
 
 aria2
 
-IPSEC
-
-BBR
+Turbo ACC
 
 每月更新一次，有需自取
 
