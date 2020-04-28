@@ -30,6 +30,8 @@ FTP服务器
 
 aria2
 
+iPsec VPN
+
 Turbo ACC
 
 每月更新一次，有需自取
