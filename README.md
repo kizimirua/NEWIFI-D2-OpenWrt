@@ -1,5 +1,5 @@
 # NEWIFI-D2-LEAN-OP
-编译自lean( https://github.com/coolsnowwolf/lede )的适合NEWIFI-D2的OpenWrt
+编译自lean( https://github.com/coolsnowwolf/lede )的适合新路由(NEWIFI-D2) 3代的OpenWrt
 
 默认密码：password
 
