@@ -38,4 +38,4 @@ Turbo ACC
 
 下载链接： https://github.com/kizimirua/NEWIFI-D2-LEAN-OP/releases
 
-新增精简固件，不包含aria2,ftp服务器,smb网络共享,硬盘休眠,iPsecVPN
+精简固件，不包含aria2,ftp服务器,smb网络共享,硬盘休眠,iPsecVPN
