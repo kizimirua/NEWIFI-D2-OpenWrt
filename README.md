@@ -38,5 +38,5 @@ Turbo ACC
 
 下载链接： https://github.com/kizimirua/NEWIFI-D2-OpenWrt/releases
 
-精简固件请移步，不包含aria2,ftp服务器,smb网络共享,硬盘休眠,iPsecVPN
-https://github.com/kizimirua/NEWIFI-D2-OP
+精简固件请移步https://github.com/kizimirua/NEWIFI-D2-OP
+此固件不包含aria2,ftp服务器,smb网络共享,硬盘休眠,iPsecVPN
