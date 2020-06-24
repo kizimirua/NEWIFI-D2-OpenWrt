@@ -7,7 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus(ss-v2ray-plugin，v2ray，trojan，ssr-server)
+ssr-plus(ssr，ss-v2ray-plugin，v2ray，trojan，redsocks，ssr-server)
 
 解锁网易云灰色歌曲
 
