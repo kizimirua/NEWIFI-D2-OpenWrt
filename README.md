@@ -34,7 +34,7 @@ iPsec VPN
 
 Turbo ACC
 
-每月更新一次，有需自取
+每月更新一次，有需自取，转载请标明出处
 
 下载链接： https://github.com/kizimirua/NEWIFI-D2-OpenWrt/releases
 
