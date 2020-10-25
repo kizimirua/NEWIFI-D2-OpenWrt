@@ -38,6 +38,4 @@ Turbo ACC
 
 下载链接： https://github.com/kizimirua/NEWIFI-D2-OpenWrt/releases
 
-其中openwrt-ramips-mt7621-d-team_newifi-d2-squashfs-sysupgrade.bin为升级固件，mt7621.zip内包含所有格式的固件以及ipk文件
-
 精简固件请移步https://github.com/kizimirua/NEWIFI-D2-OP 此固件不包含aria2,ftp服务器,smb网络共享,硬盘休眠,iPsecVPN
