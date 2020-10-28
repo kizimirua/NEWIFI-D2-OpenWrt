@@ -15,6 +15,8 @@ ssr-plus(ssr，ss-v2ray-plugin，v2ray，trojan，redsocks，ssr-server)
 
 KMS服务器
 
+USB打印
+
 UPNP
 
 frpc
