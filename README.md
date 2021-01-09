@@ -7,7 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus(ssr，ss-v2ray-plugin，v2ray，trojan，redsocks，ssr-server)
+ssr-plus(ssr，ss-v2ray-plugin，v2ray，trojan，redsocks)
 
 解锁网易云灰色歌曲
 
@@ -20,7 +20,6 @@ USB打印
 UPNP
 
 frpc
-frps
 
 网络共享
 
