@@ -7,7 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus(ssr，ss,XRAY)
+ssr-plus(ssr，ss，XRAY)
 
 动态DNS
 
