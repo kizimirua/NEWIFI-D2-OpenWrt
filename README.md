@@ -1,5 +1,5 @@
 # NEWIFI-D2-LEAN-OP
-编译自lean( https://github.com/coolsnowwolf/lede )的适合 新路由(NEWIFI-D2)3代 的OpenWrt
+编译自lean( https://github.com/coolsnowwolf/lede )的适合NEWIFI-D2的OpenWrt
 
 默认密码：password
 
@@ -7,9 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus(ssr，ss-v2ray-plugin，v2ray，trojan，redsocks)
-
-解锁网易云灰色歌曲
+ssr-plus(ssr，ss-v2ray-plugin，XRAY)
 
 动态DNS
 
