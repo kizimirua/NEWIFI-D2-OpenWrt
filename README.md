@@ -7,7 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus(ssr，ss-v2ray-plugin，XRAY)
+ssr-plus(ssr，ss,XRAY)
 
 动态DNS
 
@@ -28,8 +28,6 @@ TTYD终端
 FTP服务器
 
 aria2
-
-iPsec VPN
 
 Turbo ACC
 
