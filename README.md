@@ -7,7 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus(ssr，ss，xray，trojan)
+ssr-plus(ssr，ss(v2ray-plugin)，xray(trojan,v2ray,socks5))
 
 动态DNS
 
