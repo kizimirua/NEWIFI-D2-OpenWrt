@@ -18,6 +18,7 @@ USB打印
 UPNP
 
 frpc
+frps
 
 网络共享
 
