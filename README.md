@@ -30,8 +30,6 @@ FTP服务器
 
 aria2
 
-IPsecVPN
-
 京东签到
 
 Turbo ACC
