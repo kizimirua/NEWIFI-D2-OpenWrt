@@ -1,6 +1,6 @@
 # NEWIFI-D2-LEAN-OP
 
-此仓库以后不再更新，仅更新精简版：https://github.com/kizimirua/NEWIFI-D2-OP
+此仓库5.4.128内核后以后不再更新，仅更新精简版：https://github.com/kizimirua/NEWIFI-D2-OP
 
 编译自lean( https://github.com/coolsnowwolf/lede )的适合NEWIFI-D2的OpenWrt
 
